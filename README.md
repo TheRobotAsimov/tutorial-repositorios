@@ -2,7 +2,7 @@
 
 Probablemente ya hayas utilizado ***GitHub*** por requisito de tu proyecto de Estadía, pero esta es una herramienta que va mucho más allá de eso❗. Aprender a dominar ***GitHub*** es un <span style="color:cyan;">*must to* (tienes que)</span> si estás pensando en entrar al mundo profesional de desarrollo en equipo de software 👨‍💻. Por eso traigo este intento de tutorial para que afiances más tus bases en ***GitHub***.
 
-Con ***GitHub*** olvidense de estarse pasando las EP's por whats o por gmail y estar comprimiendo y descomprimiendo .zip's o estarse saboteando mientras todos editan el mismo replit 🤩 
+Con ***GitHub*** olvidense de estarse pasando las EPs por whats <img src="images/WhatsApp-HH.png" alt="git" width="25px" style="vertical-align: middle;"> o por gmail <img src="images/gmail.png" alt="git" width="20px" style="vertical-align: middle;"> y estar comprimiendo y descomprimiendo .zip's <img src="images/zip.png" alt="git" width="20px" style="vertical-align: middle;"> o estarse saboteando mientras todos editan el mismo replit <img src="images/replit.png" alt="git" width="25px" style="vertical-align: middle;"> 
 
 >***GitHub*** es la manera más eficiente de trabajar en equipo (y por ello al inicio puede costar un poco, pero vale la pena).
 
@@ -13,7 +13,7 @@ Para ver ***GitHub***, primero debemos entender qué es ***Git***.
 
 >***Git*** es una tecnología que permite guardar un registro de todas las versiones de tu proyecto de software a lo largo de su desarrollo. 
 
-Es decir, con ***Git*** puedes ver cómo lucía tu código al iniciar tu proyecto, cómo lucía dos dias antes o cómo lucía antes de que alguien de tu equipo se le ocurriera meterle mano y provocar que ya ni compile, faltando un día para la entrega❗. Con ***Git*** tienes todo el <u>historial de cómo ha ido evolucionando tu código</u> y puedes regresar a cualquiera de esas versiones como si de una máquina del tiempo se tratara 👨‍🔬.
+Es decir, con ***Git*** puedes ver cómo lucía tu código al iniciar tu proyecto, cómo lucía dos dias antes o cómo lucía antes de que alguien de tu equipo se le ocurriera meterle mano y provocar que ya ni compile, faltando un día para la entrega ⏱️❗. Con ***Git*** tienes todo el <u>historial de cómo ha ido evolucionando tu código</u> y puedes regresar a cualquiera de esas versiones como si de una máquina del tiempo se tratara 👨‍🔬.
 
 ![Linea de tiempo de Git](images/linetime.png)
 
